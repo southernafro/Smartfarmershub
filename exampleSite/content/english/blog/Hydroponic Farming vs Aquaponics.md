@@ -1,9 +1,9 @@
 ---
-title: How To Wear Bright Shoes
+title: Hydroponic Farming vs Aquaponics
 date: 2018-09-24T11:07:10.000+06:00
 author: John Doe
-image: images/blog/blog-post-1.jpg
-bg_image: images/featue-bg.jpg
+image: "/images/tilapia-3869239_640.jpg"
+bg_image: "/images/agriculture-2229_1280.jpg"
 categories:
 - Company News
 tags:
@@ -13,53 +13,88 @@ description: this is meta description
 type: post
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. </p>
+When it comes to Aquaponics and hydroponics there is obviously a difference between the two. They vary in finance, difficulty, materials, and set up. The main differentiating factor is the fish. In other words, the main difference between hydroponics and aquaponics is that aquaponics uses fish to provide nutrients, and hydroponics uses formulated solutions.
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
+Today we will be looking at some of the benefits and challenges of both farming tactics and methods. This way, it will make things easier for you if you are trying to decide on which one to start working on. So here goes, just follow through with this guide and see where this will take you.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
-eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
-explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
-inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
-nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
-at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.</p>
+## Hydroponics
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
+Most commercial farmers take on hydroponics as a growing technique as it is easier and more controllable and fits into more convenient business models.
 
+### Benefits
 
-* hello
-* hello
-* hello
-* hello
-* hello
+#### Costs are predictable and consistent
 
-1. hello
-2. hello
-3. hello
-4. hello
+As we all must be aware of, hydroponic farming is dependent on the size, management, and the sourcing that is put forth. You will find that costs for hydroponic production tend to be more consistent and hence are more predictable. This will obviously lead to a sense of financial stability and can make book-keeping and any ordering much easier for one's business.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
-commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
-nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio
-adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui
-doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque
-architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis
-voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit,
-molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia
-eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum
-ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventore
-perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
-reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
-commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.</p>
+Hydroponic nutrients are formulated and well they don’t exactly vary month-to-month. So with that, you will find that the amount of fertilizer used can be estimated within a narrower range than the food and supplements of aquaponics farming.
+
+#### It is easier to operate and to the train workers
+
+With Hydroponic farming, you will find that business is straightforward. So the training processes are quite direct and simple. Since additions to the system are fairly consistent and troubleshooting is limited, managers can find ways of training their new employees fairly easily.
+
+#### It is way easier for GAP certification
+
+Certifiers tend to be more familiar with hydroponic certification than with aquaponic certification. This is something that could definitely speed up the certification process. Lack of fish and fish waste in the system removes dozens of steps from the GAP certification processes. Hence there are fewer opportunities for contamination in the system.
+
+### Challenges of hydroponics
+
+#### Hard to get certified organic
+
+While GAP is easier when it comes to hydroponics, there is another type of certification that favors aquaponic producers and that is the Organic. Hydroponics makes use of a nutrient solution, which is rarely seen as a good candidate for organic certification.
+
+With that being said you will find that growers who want to be certified, should remember that there are some organic hydroponics fertilizer options that could help.
+
+## Aquaponics
+
+Farms don’t have to be exclusively aquaponic
+
+One of the great things about managing a farm is that you can be flexible. Aquaponic growers can also be hydroponic growers and vice versa.
+
+### Benefits
+
+#### Cool marketing angle
+
+Having live animals as part of the production process brings in an exciting element that attracts customers and opens up a lot of marketing opportunities. Many of the new farmers have actually found aquaponics to be a great marketing tool and are easier for penetration into the market space.
+
+#### Higher consumer appeal
+
+One of the reasons that aquaponics makes such a unique marketing angle is that it attracts the attention of consumers. You will even find that some businesses such as restaurants that grow their produce aquaponically actually decide to make the system more of a view for their customers and it works.
+
+#### Fun & rewarding
+
+Most aquaponics growers choose aquaponics as a grow method at least in part because of the satisfaction they find in raising fish. Of course, one of the greatest and most compelling arguments for aquaponics is that it is rewarding to raise fish. Not only is it fun for the grower, but it makes events like tours, educational programs, and training more fun, too.
+
+#### Fish to eat
+
+Much aquaponic fish like [tilapia](https://en.wikipedia.org/wiki/Tilapia) and catfish make for delicious meals. While growers shouldn’t rely on fish sales for income aquaponic systems can be a great way to supplement your family’s dinner table. In the case that they actually love fish.
+
+### Challenges
+
+The complexity of aquaponic systems can be a curse as well as a blessing, as it makes building and set up more difficult.
+
+#### Take up space
+
+When it comes to aquaponics, the addition of fish tanks means that plumbing systems have to be split and more space has to be set aside for the fish part of the operation. Which may result in a lot of space being taken up. Hobby growers using methods like media beds which are situated right above the tank might be looking at a slightly different space requirement.
+
+#### Cycling time consumption
+
+A very important constraint that aquaponics places on producers are a delayed starting time. To build the healthy microbial communities necessary for nutrient cycling, aquaponic systems must experience a fishless cycling period of at least 6 weeks before planting.
+
+After those 6 weeks, and for up to 18 months, aquaponic systems will see depressed production while microbial populations stabilize. Once established, however, aquaponic growers can experience great yields, sometimes even more than in hydroponic systems.
+
+#### Beginner errors
+
+A final challenge that aquaponic growers must overcome is the learning curve inherent with operating a complex system. Errors in management and unfortunate events can easily snowball and result in bigger problems.
+
+#### Death of fish
+
+An example that is practical like the death of one fish, can affect the health of other fish, microbes, and plants in the system. Operators have more tasks to complete and more plumbing and biology to troubleshoot when problems arise. There’s no doubt that aquaponics is more difficult than hydroponics.
+
+#### Higher build-out cost
+
+If you were to compare a hydroponic and an aquaponic system with similar economic output, the aquaponic system would cost 30%-50% more to build out and implement. This puts aquaponic growers at a competitive disadvantage if they’re engaged in direct price-based competition with hydroponic growers.
+
+## Final thoughts
+
+If you ask me, to a greater extent I would say that hydroponics is way easier to handle and manage as compared to aquaponics. However, we each have different strengths and weaknesses. One man’s meat may as well be another man’s poison. So it is all up to you.
